@@ -13,4 +13,4 @@ Enter 0 to play with another human or 1 to play with AI.
 
 ##License
 
-markov-text-generator is licensed under the MIT License. See LICENSE for more information.
+tic-tac-toe is licensed under the MIT License. See LICENSE for more information.
